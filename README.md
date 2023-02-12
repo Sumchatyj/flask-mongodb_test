@@ -36,6 +36,7 @@ pip install -r requirements.txt
 ### Endpoins:
 
 http://127.0.0.1:5000/users
+
 http://127.0.0.1:5000/users/<user_id>
 
 ### Response example:
